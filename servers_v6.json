@@ -134,5 +134,9 @@
   {
     "name": "OMNIDUSTRY",
     "address": ["109.94.209.233"]
-  } 
+  },
+  {
+    "name": "Pelmen craft",
+    "address": ["Pelmen-craft.ml:25563"]
+  }
 ]
